@@ -7,7 +7,7 @@ I created Francis Hair Salon as my CIS capstone project. It’s a Java web app t
 * Java (JSP and Servlets)
 * JDBC for database access
 * Microsoft SQL Server
-* HTML, CSS, and JSP pages
+* HTML, and JSP pages
 * NetBeans IDE
 * Apache Tomcat server
 
